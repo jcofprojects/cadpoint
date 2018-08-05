@@ -1,0 +1,2 @@
+python CadPoint.py
+pause
